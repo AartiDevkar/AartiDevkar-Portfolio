@@ -72,8 +72,7 @@ export default function Portfolio() {
               <div className="p-8">
                 <h3 className="text-2xl font-bold text-white mb-4">BEarthly</h3>
                 <p className="text-slate-400 mb-6">
-                  Carbon footprint tracking app  using Firebase [cite: 33] and AQI APIs [cite: 32] to analyze user emissions and 
-                  sustainability trends[cite: 31].
+                 Designed a carbon footprint calculation system to analyze user activity data and track emissions trends. Integrated AQI APIs to enrich analytics and used Firebase to manage structured user data securely.
                 </p>
                 <div className="flex gap-2">
                   <span className="px-3 py-1 bg-emerald-500/10 text-emerald-400 text-xs rounded-full border border-emerald-500/20">Firebase</span>
@@ -87,8 +86,7 @@ export default function Portfolio() {
               <div className="p-8">
                 <h3 className="text-2xl font-bold text-white mb-4">Transport Management System</h3>
                 <p className="text-slate-400 mb-6">
-                  Full-stack web application built using .NET to manage fleet operations, logistics, 
-                  and scheduling for a transport company.
+                 Developed a full-stack logistics platform using .NET and C# to manage fleet operations. Optimized the underlying MySQL database to improve data availability and reporting consistency.
                 </p>
                 <div className="flex gap-2">
                   <span className="px-3 py-1 bg-purple-500/10 text-purple-400 text-xs rounded-full border border-purple-500/20">.NET</span>
