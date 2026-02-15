@@ -104,12 +104,12 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-white">Curriculum Vitae</h2>
           <div className="bg-slate-800 p-12 rounded-3xl border border-slate-700 flex flex-col items-center">
             <FileText size={64} className="text-blue-500 mb-6" />
-            <h3 className="text-xl font-bold mb-4">Resume_AartiDevkar_AE.pdf</h3>
+            <h3 className="text-xl font-bold mb-4">Aarti_Resume_Final.pdf</h3>
             <p className="text-slate-400 mb-8 max-w-md">
               Download my full resume to view detailed experience.
             </p>
             <a 
-              href="/Resume_AartiDevkar_AE.pdf" 
+              href="/Aarti_Resume_Final.pdf" 
               download 
               className="bg-white text-slate-900 px-8 py-3 rounded-full font-bold hover:bg-slate-200 transition"
             >
