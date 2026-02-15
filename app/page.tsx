@@ -106,8 +106,7 @@ export default function Portfolio() {
             <FileText size={64} className="text-blue-500 mb-6" />
             <h3 className="text-xl font-bold mb-4">Resume_AartiDevkar_AE.pdf</h3>
             <p className="text-slate-400 mb-8 max-w-md">
-              Download my full resume to view detailed experience in BigQuery optimization [cite: 13] and 
-              automated lead lifecycle management[cite: 16].
+              Download my full resume to view detailed experience.
             </p>
             <a 
               href="/Resume_AartiDevkar_AE.pdf" 
